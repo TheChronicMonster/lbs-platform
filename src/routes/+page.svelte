@@ -1,25 +1,25 @@
 <div>
     <h1 class="top-title">Learns and Builder's Society</h1>
-    <img class="jumbotron" src="../src/img/jumbo-screen.png" alt="jumbotron-screen" />
+    <img class="jumbotron" src="/images/jumbo-screen.png" alt="jumbotron-screen" />
 
     <h2>Choose the Perfect Coursework for your Professional and Academic Goals</h2>
-    <img class="banner" src="../src/img/students-planning.png" alt="students planning their future" />
+    <img class="banner" src="/images/students-planning.png" alt="students planning their future" />
 
     <!-- AI for Learners -->
     <div class="grid grid-cols-3 gap-4">
         <div>
             <h3>LBS is for all Learners</h3>
-            <img src="../src/img/hologram.png" alt="students in class" />
+            <img src="/images/hologram.png" alt="students in class" />
             <p>Learn with students of similar interests live around the world in virtual spaces</p>
         </div>
         <div>
             <h3>LBS is for Educators</h3>
-            <img src="../src/img/virtual-educator.png" alt="educator in virtual space" />
+            <img src="/images/virtual-educator.png" alt="educator in virtual space" />
             <p>Anyone can submit courses. Community-approved educators and their content are favored by the recommendation engine and paid by economies of scale.</p>
         </div>
         <div>
             <h3>LBS is the New Classroom</h3>
-            <img src="../src/img/future-classroom.png" alt="a classroom of the future" />
+            <img src="/images/future-classroom.png" alt="a classroom of the future" />
             <p>AI recommends the perfect coursework based on individual interests; Students learn together across multiple regions; Immutable Certifications are soulbound to a decentralized identity.</p>
         </div>
     </div>
